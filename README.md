@@ -12,8 +12,7 @@ Welcome to the repository for **Course 9**! This repository contains all the tas
    - [Module 4: Data Visualization](#module-4-data-visualization)
    - [Module 5: Building a Dashboard](#module-5-building-a-dashboard)
    - [Module 6: Final Assignment: Present Your Findings](#module-6-final-assignment-present-your-findings)
-3. [Getting Started](#getting-started)
-4. [Contributing](#contributing)
+3. [Contributing](#contributing)
 
 ---
 
@@ -49,18 +48,6 @@ This course covers a comprehensive journey through data collection, wrangling, e
 
 ### Module 6: Final Assignment: Present Your Findings
 - **Final Presentation:** Compiling and presenting data-driven insights.
-
-## Getting Started
-To run the scripts and view the assignments in this repository:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/course-9.git
-   ```
-2. Install the required Python packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Navigate through the module folders and follow the README files within each folder for specific instructions.
 
 ## Contributing
 Contributions are welcome! If you'd like to add new examples, improve documentation, or report issues, please open a pull request or file an issue.
